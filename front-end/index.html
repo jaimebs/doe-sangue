@@ -5,9 +5,58 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Doe Sangue! Doe Vida!</title>
 
-    <link rel="shortcut icon" href="./img/batimento-cardiaco.png" type="image/x-icon" />
-
+    <link rel="shortcut icon" href="assets/batimento-cardiaco.png" type="image/x-icon" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="style.css" />
   </head>
-  <body></body>
+  <body>
+    <header>
+      <img src="assets/logo.png" alt="Imagem de DOE" />
+      <h2>A sua doação importa</h2>
+      <p>Até 3 vidas com 1 doação</p>
+      <p>Mais de 38.000 doações são necessárias todos os dias</p>
+      <p>Apenas 1,9% da população brasileira, doa sangue.</p>
+
+      <button>QUERO AJUDAR</button>
+    </header>
+
+    <section class="form hide">
+      <h2>Entre na lista de doadores</h2>
+      <form action="/" method="post">
+        <input type="text" name="name" placeholder="Nome completo" />
+        <input type="text" name="email" placeholder="Email" />
+        <input type="text" name="blood" placeholder="Tipo sanguíneo" />
+        <button type="submit">QUERO AJUDAR</button>
+      </form>
+    </section>
+
+    <main>
+      <h2>Útimos <span>doadores</span></h2>
+      <section class="donors">
+        <div class="donor">
+          <div class="blood">O-</div>
+          <p>José Maria</p>
+        </div>
+
+        <div class="donor">
+          <div class="blood">AB+</div>
+          <p>Nelson Souza</p>
+        </div>
+
+        <div class="donor">
+          <div class="blood">A+</div>
+          <p>Diego Bastos</p>
+        </div>
+
+        <div class="donor">
+          <div class="blood">B-</div>
+          <p>Judite Joaquina</p>
+        </div>
+      </section>
+    </main>
+
+    <footer>Com ❤️ JBS</footer>
+
+    <script src="scripts.js"></script>
+  </body>
 </html>
