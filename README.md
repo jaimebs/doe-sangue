@@ -13,9 +13,10 @@ O **Doe Sangue** foi desenvolvido para servir como um banco de doadores de sangu
 - HTML5
 - CSS
 - Javascript
-- Node.js
+- Node
 - Express
 - Nodemon
+- Nunjucks
 - SQlite
 
 ## Iniciando a aplicação
