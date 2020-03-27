@@ -1,0 +1,23 @@
+{
+  "name": "doe-sangue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaimebs/doe-sangue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaimebs/doe-sangue/issues"
+  },
+  "homepage": "https://github.com/jaimebs/doe-sangue#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
