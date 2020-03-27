@@ -27,4 +27,4 @@ Front-End:
 
 ![doe-sangue](https://user-images.githubusercontent.com/17276957/77680525-d775d500-6f72-11ea-970b-e7e755ac9f86.PNG)
 
-Made with :heart: by **Jaime Barbosa** [Linkedin](https://www.linkedin.com/in/jaime-barbosa-santana-8167a664/)
+Made with :heart: by **Jaime Barbosa** [Linkedin](https://www.linkedin.com/in/jaimebs/)
