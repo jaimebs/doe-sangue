@@ -2,10 +2,7 @@
 
 ![logo](https://user-images.githubusercontent.com/17276957/77678065-654fc100-6f6f-11ea-89ec-9694f1b48fb7.png)
 
-Olá! Seja bem-vindo ao repositório do Doe Sangue. Ele estará separado em duas pastas diferentes de acordo com suas responsabilidades, são elas:
-
-- Back-end: desenvolvido com NodeJS
-- Front-end: desenvolvido com HTML5, CSS e Javascript
+Olá! Seja bem-vindo ao repositório do Doe Sangue. Nele contém todo o código da aplicação com as tecnologias e frameworks usados.
 
 ## Aplicação
 
@@ -13,15 +10,12 @@ O **Doe Sangue** foi desenvolvido para servir como um banco de doadores de sangu
 
 ## Tecnologias
 
-Back-End:
-- Node.js
-- Express
-- Nodemon
-
-Front-End:
 - HTML5
 - CSS
 - Javascript
+- Node.js
+- Express
+- Nodemon
 
 ## Tela do sistema
 
