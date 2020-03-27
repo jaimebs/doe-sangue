@@ -17,8 +17,14 @@ O **Doe Sangue** foi desenvolvido para servir como um banco de doadores de sangu
 - Express
 - Nodemon
 
+## Iniciando a aplicação
+
+Depois de baixar a aplicação rodar o comando **npm install** para baixar todas as dependências, e em seguido o comando **npm start** para colocar a aplicação no ar.
+
 ## Tela do sistema
 
 ![doe-sangue](https://user-images.githubusercontent.com/17276957/77680525-d775d500-6f72-11ea-970b-e7e755ac9f86.PNG)
 
-Made with :heart: by **Jaime Barbosa** [Linkedin](https://www.linkedin.com/in/jaimebs/)
+#
+
+Made with :heart: by **Jaime Barbosa** - [Linkedin](https://www.linkedin.com/in/jaimebs/)
