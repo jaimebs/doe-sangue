@@ -32,6 +32,7 @@
 
     <main>
       <h2>Útimos <span>doadores</span></h2>
+      {% if donors.length > 0 %}
       <section class="donors">
         {% for donor in donors %}
         <div class="donor">
@@ -40,6 +41,9 @@
         </div>
         {% endfor %}
       </section>
+      {% endif %} {% if donors.length === 0 %}
+      <h2>Não tem doadores 😥</h2>
+      {% endif %}
     </main>
 
     <footer>Com ❤️ JBS</footer>
